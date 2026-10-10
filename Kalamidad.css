@@ -31,7 +31,7 @@ a { color: inherit; text-decoration: none; }
   gap: 32px; height: 600px; padding: 24px 64px; background: var(--gray);
 }
 .hero__text { width: 422px; flex: none; }
-.hero__text h1 { font: 400 50px/normal var(--f-display); margin-bottom: 50px; }
+.hero__text h1 { font : 400 50px/normal var(--f-display); margin-bottom: 50px; }
 .hero__text p { font: 400 20px/normal var(--f-display); }
 .cta { display: none; }
 .hero__images { position: relative; width: 720px; height: 100%; flex: none; }
